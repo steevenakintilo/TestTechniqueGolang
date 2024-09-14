@@ -26,3 +26,14 @@ Pour lancer le projet faite cette commande
   go run server.go
 ```
 
+Pour tester le projet vous aurez besoin de Postman https://www.postman.com/downloads/
+
+Pour Crée un brainee faite comme sur l'image
+
+![image](https://github.com/user-attachments/assets/e64744b4-8883-48cf-b4c3-6cbfa80a0fb8)
+
+Pour voir le brainee crée faite comme sur l'image
+
+![image](https://github.com/user-attachments/assets/41f863d4-8bea-4e72-a69a-739d0d5efa04)
+
+

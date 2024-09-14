@@ -1,6 +1,6 @@
 # TestTechniqueGolang
 
-Ce projet permet de crée et récupré un brainee comme expliquer dans le sujet.
+Ce projet permet de crée et retourner un brainee comme expliquer dans le sujet.
 
 Pour lancer le projet vous devez avoir Golang d'installer https://go.dev/doc/install
 
@@ -20,7 +20,7 @@ Pour ce faire faite ces 3 commandes sur votre terminal
   go get gorm.io/gorm
 ```
 
-Pour lancer le projet faite cette commande
+Pour lancer le projet faite cette commande sur votre terminal
 
 ```bash
   go run server.go
@@ -32,7 +32,7 @@ Pour Crée un brainee faite comme sur l'image
 
 ![image](https://github.com/user-attachments/assets/e64744b4-8883-48cf-b4c3-6cbfa80a0fb8)
 
-Pour voir le brainee crée faite comme sur l'image
+Pour retourner le brainee crée faite comme sur l'image
 
 ![image](https://github.com/user-attachments/assets/41f863d4-8bea-4e72-a69a-739d0d5efa04)
 
